@@ -1,6 +1,8 @@
 Rails 指南翻译
 =============
 
+[![Join the chat at https://gitter.im/erithair/guides](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/erithair/guides?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 翻译准备工作
 ----------
 
